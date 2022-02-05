@@ -1,3 +1,4 @@
+import Navbar from "../../components/navbar"
 const Test = () => {
   return (
     <div>
